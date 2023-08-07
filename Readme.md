@@ -1,3 +1,7 @@
+
+
+![Best-Task-Management-Software-Platforms](https://github.com/TheMohit2003/task-management-api/assets/99909551/49f4da11-473f-4504-8888-fa2d384bd543)
+
 # Task Management API
 
 The Task Management API allows users to manage their tasks and to-do lists. Users can create, update, delete, and fetch tasks using the provided API endpoints. User authentication and authorization are implemented to ensure data privacy.
